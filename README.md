@@ -15,6 +15,6 @@ Girls and boys age >20, can participate in Poetry.
 
 You can run the program using: `python3 gameExpo.py`
 
-changes by shetty01 for testing rebase and merge.
+changes by shetty02 for testing rebase and merge.
 
 changes by samod01 for testing merge.
